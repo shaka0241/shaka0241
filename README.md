@@ -1,6 +1,6 @@
 # Alberto Rojas
 
-### Full Stack Developer | Docente | Project Manager
+###  Software Engineer | Full Stack Developer | Docente 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-albertorojas.netlify.app-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://albertorojas.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alberto%20Rojas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albertorojasgallegos/)
