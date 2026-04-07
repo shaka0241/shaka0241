@@ -1,6 +1,6 @@
 # Alberto Rojas
 
-###  Software Engineer | Full Stack Developer | Docente 
+### Full Stack Developer | Docente | Project Manager
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-albertorojas.netlify.app-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://albertorojas.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alberto%20Rojas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albertorojasgallegos/)
@@ -9,20 +9,20 @@
 [![Email](https://img.shields.io/badge/Email-alberto.erg87%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alberto.erg87@gmail.com)
 
 ## Sobre mi
-Soy Desarrollador Full Stack con mas de 10 anos de experiencia en tecnologia, trabajando en productos digitales para retail, salud, banca y educacion.
+Soy Desarrollador Full Stack con mas de 10 años de experiencia en tecnologia, trabajando en productos digitales para retail, salud, banca y educacion.
 
-- +10 anos en tecnologia (desde 2013)
+- +10 años en tecnologia (desde 2013)
 - Experiencia en Cognizant, 2Brains, Acid Labs, VASS y Smartjob
 - +1000 alumnos formados como docente y mentor
 - Perfil mixto: ejecucion tecnica, arquitectura y liderazgo de proyectos
 
 ## Stack y tecnologias
 
-![Tech Stack](https://skillicons.dev/icons?i=react,angular,vue,ts,js,nodejs,nestjs,dotnet,python,postgres,azure,aws,gcp,docker,kubernetes,git,githubactions&perline=9)
+![Tech Stack](https://skillicons.dev/icons?i=react,angular,vue,next,astro,ts,js,nodejs,nestjs,dotnet,python,mongodb,postgres,mysql,azure,aws,gcp,docker,kubernetes,git,githubactions&perline=9)
 
-**Frontend:** React, Angular, Vue.js, TypeScript, JavaScript, Storybook, Bootstrap, Sass  
+**Frontend:** React, Angular, Vue.js, Next.js, Astro, TypeScript, JavaScript, Storybook, Bootstrap, Sass  
 **Backend:** Node.js, NestJS, .NET, Python  
-**Datos:** PostgreSQL, ETL, Databricks  
+**Datos:** MongoDB, PostgreSQL, MySQL, ETL, Databricks  
 **Cloud/DevOps:** Azure, Azure DevOps, AWS, GCP, Docker, Kubernetes, CI/CD  
 **Analitica/Producto:** GTM, Google Analytics, Looker, New Relic, Hotjar
 
